@@ -95,7 +95,7 @@ Players earn and lose points based on collected objects and interactions with en
 ### Run from Source
 
 ```bash
-git clone -b master https://github.com/SebastijanPecenko/Mines-Game-Simulator.git
+git clone -b master https://github.com/USERNAME/Surviving_In_Underground.git
 ```
 
 1. Open the project in NetBeans
