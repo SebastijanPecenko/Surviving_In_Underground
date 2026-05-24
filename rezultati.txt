@@ -1,0 +1,8 @@
+Datum: Wed Feb 25 16:31:56 CET 2026 | Tezavnost: LAHKA | Tocke: 0 | Cas: 1772033516s
+Datum: Wed Feb 25 16:34:59 CET 2026 | Tezavnost: LAHKA | Tocke: 30 | Cas: 1772033699s
+Datum: Wed Feb 25 16:36:34 CET 2026 | Tezavnost: TEZKA | Tocke: 10 | Cas: 1772033794s
+Datum: Sat Feb 28 18:16:46 CET 2026 | Tezavnost: LAHKA | Tocke: 40 | Cas: 1772299006s
+Datum: Sat Feb 28 18:20:39 CET 2026 | Tezavnost: SREDNJA | Tocke: 30 | Cas: 1772299239s
+Datum: Sat Feb 28 18:21:47 CET 2026 | Tezavnost: SREDNJA | Tocke: 110 | Cas: 1772299307s
+Date: Thu May 21 18:11:57 CEST 2026 | Dificulty: Medium | Score: 30s
+Date: Thu May 21 18:15:11 CEST 2026 | Dificulty: Hard | Score: 80
